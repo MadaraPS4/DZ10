@@ -1,0 +1,22 @@
+d:\users10\asus\documents\visual studio 2015\Projects\InterfaceHomeWork\InterfaceHomeWork\bin\Debug\InterfaceHomeWork.exe.config
+d:\users10\asus\documents\visual studio 2015\Projects\InterfaceHomeWork\InterfaceHomeWork\bin\Debug\InterfaceHomeWork.exe
+d:\users10\asus\documents\visual studio 2015\Projects\InterfaceHomeWork\InterfaceHomeWork\bin\Debug\InterfaceHomeWork.pdb
+d:\users10\asus\documents\visual studio 2015\Projects\InterfaceHomeWork\InterfaceHomeWork\bin\Debug\ClassLibrary.dll
+d:\users10\asus\documents\visual studio 2015\Projects\InterfaceHomeWork\InterfaceHomeWork\bin\Debug\ClassLibrary.pdb
+d:\users10\asus\documents\visual studio 2015\Projects\InterfaceHomeWork\InterfaceHomeWork\obj\Debug\InterfaceHomeWork.csprojResolveAssemblyReference.cache
+d:\users10\asus\documents\visual studio 2015\Projects\InterfaceHomeWork\InterfaceHomeWork\obj\Debug\InterfaceHomeWork.exe
+d:\users10\asus\documents\visual studio 2015\Projects\InterfaceHomeWork\InterfaceHomeWork\obj\Debug\InterfaceHomeWork.pdb
+C:\Users\Admin\Downloads\Интерфейсы\InterfaceHomeWork\InterfaceHomeWork\bin\Debug\InterfaceHomeWork.exe.config
+C:\Users\Admin\Downloads\Интерфейсы\InterfaceHomeWork\InterfaceHomeWork\obj\Debug\InterfaceHomeWork.exe
+C:\Users\Admin\Downloads\Интерфейсы\InterfaceHomeWork\InterfaceHomeWork\obj\Debug\InterfaceHomeWork.pdb
+C:\Users\Admin\Downloads\Интерфейсы\InterfaceHomeWork\InterfaceHomeWork\bin\Debug\InterfaceHomeWork.exe
+C:\Users\Admin\Downloads\Интерфейсы\InterfaceHomeWork\InterfaceHomeWork\bin\Debug\InterfaceHomeWork.pdb
+C:\Users\Admin\Downloads\Интерфейсы\InterfaceHomeWork\InterfaceHomeWork\bin\Debug\ClassLibrary.dll
+C:\Users\Admin\Downloads\Интерфейсы\InterfaceHomeWork\InterfaceHomeWork\bin\Debug\ClassLibrary.pdb
+C:\Users\Admin\Downloads\Интерфейсы\InterfaceHomeWork\InterfaceHomeWork\obj\Debug\InterfaceHomeWork.csprojResolveAssemblyReference.cache
+C:\Users\ЗейтынБ\Downloads\Интерфейсы\InterfaceHomeWork\InterfaceHomeWork\bin\Debug\InterfaceHomeWork.exe.config
+C:\Users\ЗейтынБ\Downloads\Интерфейсы\InterfaceHomeWork\InterfaceHomeWork\bin\Debug\InterfaceHomeWork.exe
+C:\Users\ЗейтынБ\Downloads\Интерфейсы\InterfaceHomeWork\InterfaceHomeWork\bin\Debug\InterfaceHomeWork.pdb
+C:\Users\ЗейтынБ\Downloads\Интерфейсы\InterfaceHomeWork\InterfaceHomeWork\obj\Debug\InterfaceHomeWork.csprojResolveAssemblyReference.cache
+C:\Users\ЗейтынБ\Downloads\Интерфейсы\InterfaceHomeWork\InterfaceHomeWork\obj\Debug\InterfaceHomeWork.exe
+C:\Users\ЗейтынБ\Downloads\Интерфейсы\InterfaceHomeWork\InterfaceHomeWork\obj\Debug\InterfaceHomeWork.pdb
